@@ -1,0 +1,13 @@
+site_name: 张莹的技术文档
+site_description: 开源软件课程MkDocs自动部署实验
+site_url: https://zhangying-1-Z.github.io/my-docs/
+
+theme:
+  name: material
+  language: zh
+
+nav:
+  - 首页: index.md
+  - 关于: about.md
+  - 使用指南: guide.md
+  - API参考: api.md
